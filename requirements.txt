@@ -1,1 +1,6 @@
+
+requests==2.31.0
 eth_brownie==1.19.3
+gunicorn==20.1.0
+python-dotenv==1.0.0
+websockets==12.0
